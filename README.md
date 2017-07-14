@@ -4,7 +4,7 @@
 Loosely adapted from http://hints.macworld.com/article.php?story=2009102906322976
 
 ### Usage
-Invoke scriptwith three arguments:
+Invoke script with three arguments:
 
 - Process name(s) (Must be in quotes if more than one process)
 - Number of minutes to run
