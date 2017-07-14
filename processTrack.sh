@@ -21,7 +21,7 @@ if (( $# != 3 ))
     minutesToRun="$2"
     samplesPerMinute="$3"
     echo -e "\nWarming up output file -- $outputFile"
-    printf "TIME  PCPU  PMEM  Name\n" > $outputFile
+    printf "TIME  PID  PCPU  PMEM  Name\n" > $outputFile
     echo -e "\nSampling $processName for $minutesToRun minutes and $samplesPerMinute per minute.\n"
 fi
 
