@@ -22,3 +22,6 @@ If you want to sample Safari and Chrome for 5 minutes with 30 samples per minute
 processTrack.sh "Safari Chrome" 5 30
 ```
 
+### Hint
+If opening output file with Excel (to create graphs, etc), open as space delimited, treating consecutive delimiters as one.
+
