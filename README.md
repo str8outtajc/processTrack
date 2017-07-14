@@ -1,6 +1,7 @@
 # processTrack
 
-Giving credit where credit due - Loosely adapted from http://hints.macworld.com/article.php?story=2009102906322976
+### Credit
+Loosely adapted from http://hints.macworld.com/article.php?story=2009102906322976
 
 ### Usage
 Invoke scriptwith three arguments:
